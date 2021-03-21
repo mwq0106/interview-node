@@ -29,11 +29,11 @@
 
 那么从哪里开始背呢，前人都帮你总结好了，这里列举一下我的学习资料吧。
 
-1.CsNote：https://github.com/CyC2018/CS-Notes（这个是我复习背诵的主战场，基本上覆盖了大多数面试的知识点，当然也有一些重要的知识点没有覆盖，后面会单独给出；这个教程对于Redis，计算机网络总结的并不好，Redis推荐看我后面列出的，计算机网络的话，暂时还没有更好的，也可以继续看这个教程的，这个教程对于计网的总结太过啰嗦，很多无用偏门内容，但是重要的内容基本都有，所以挑着看就好了，后面有精力我会重新总结一版计网相关的。另外这个教程对于Java线程池，AQS，ThreadLocal等这些重要的知识点也有所缺失，可以再单独查资料学习，后面如果再想到其他重要的知识点会再列出）
+1.CsNote：https://github.com/CyC2018/CS-Notes （这个是我复习背诵的主战场，基本上覆盖了大多数面试的知识点，当然也有一些重要的知识点没有覆盖，后面会单独给出；这个教程对于Redis，计算机网络总结的并不好，Redis推荐看我后面列出的，计算机网络的话，暂时还没有更好的，也可以继续看这个教程的，这个教程对于计网的总结太过啰嗦，很多无用偏门内容，但是重要的内容基本都有，所以挑着看就好了，后面有精力我会重新总结一版计网相关的。另外这个教程对于Java线程池，AQS，ThreadLocal等这些重要的知识点也有所缺失，可以再单独查资料学习，后面如果再想到其他重要的知识点会再列出）
 
-2.JavaGuide：https://github.com/Snailclimb/JavaGuide（这个是一个补充知识点，东西太多了，质量不及CsNote，只看过它关于spring那块的总结）
+2.JavaGuide：https://github.com/Snailclimb/JavaGuide （这个是一个补充知识点，东西太多了，质量不及CsNote，只看过它关于spring那块的总结）
 
-3.Redis相关：https://www.cnblogs.com/kismetv/p/8654978.html（对于常用的中间件要深刻了解他的原理，这是一篇写的很好的深度文章，比你直接看《Redis设计与实现》那本书要好的多，另外Redis扩容重哈希的过程也是一个重要的知识点，可再单独查资料学习）
+3.Redis相关：https://www.cnblogs.com/kismetv/p/8654978.html （对于常用的中间件要深刻了解他的原理，这是一篇写的很好的深度文章，比你直接看《Redis设计与实现》那本书要好的多，另外Redis扩容重哈希的过程也是一个重要的知识点，可再单独查资料学习）
 
 ###算法
 算法是现在面试中必不可少的一环，大多数公司基本都是写不出来就是挂，所以算法这方面一定要下好功夫，我在准备面试的过程当中花费最大的精力就是在准备算法，这个我觉得也是最困难的一关，所以一定要好好重视。在我面试的这些公司当中，问的算法题，只有一道题我是没做过的，其他题全都做过，可以说是非常的爽了，我题目刷的很准，怎么选题来刷也是一门学问。
@@ -46,11 +46,11 @@
 
 总结一下刷题相关的准备：
 
-1.labuladong算法小抄（https://mp.weixin.qq.com/s/AWsL7G89RtaHyHjRPNJENA）
+1.labuladong算法小抄（https://mp.weixin.qq.com/s/AWsL7G89RtaHyHjRPNJENA ）
 
-2.CsNote算法栏目（https://github.com/CyC2018/CS-Notes）
+2.CsNote算法栏目（https://github.com/CyC2018/CS-Notes ）
 
-3.三板斧覆盖式刷题：剑指offer，LeetCode hot100与LeetCode top面试题，LeetCodetop仓库（https://github.com/afatcoder/LeetcodeTop）
+3.三板斧覆盖式刷题：剑指offer，LeetCode hot100与LeetCode top面试题，LeetCodetop仓库（https://github.com/afatcoder/LeetcodeTop ）
 
 同时也给出一些小建议：
 
